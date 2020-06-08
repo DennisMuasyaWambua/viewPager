@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">view Pager2</string>
+    <string name="header">Heading</string>
+    <string name="description">Description</string>
+    <string name="first">Welcome</string>
+    <string name="second">hello</string>
+    <string name="bye">bye!</string>
+    <string name="one">desc 1</string>
+    <string name="two">desc 2</string>
+    <string name="three">desc 3</string>
+</resources>
